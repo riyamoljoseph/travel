@@ -1,0 +1,148 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.background {
+    background-image: url(https://wallpaperaccess.com/full/1191990.jpg);
+    opacity: 1.0;
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+ 
+.nav{
+    display: flex;
+    text-align: center;
+    justify-content:space-evenly;
+    padding-top: 50px;
+
+}
+
+button {
+    border-radius: 10px;
+    color: rgb(5, 6, 6);
+    width: 100px;
+    border-color: aliceblue;
+
+}
+
+img {
+    width: 100%;
+    z-index: -2;
+    display: flex;
+}
+
+h1 {
+    /* text-align: center; */
+    padding-top: 155px;
+    margin-left: 400px;
+    color: #cfe2e2e7;
+    /* width: 2000px; */
+    font-size: 50px;
+}
+
+.searchbox {
+    height: 50px;
+    width: 650px;
+    background-color: rgb(7, 25, 40);
+    border: solid 2px;
+    border-color: #fff;
+    margin-left: 450px;
+    margin-top: 220px;
+}
+
+.col1 {
+    width: 25%;
+    height: 100%;
+    border: 2px;
+    background-color: #fff;
+    float: left;
+}
+
+.col2 {
+    width: 25%;
+    height: 100%;
+    border: 2px;
+    background-color: #fff;
+    border-color: black;
+    float: left;
+    padding-left: 1px;
+}
+
+.col3 {
+    width: 161px;
+    height: 100%;
+    border: 2px;
+    background-color: #fff;
+    border-color: black;
+    float: left;
+}
+
+.col4 {
+    width: 25%;
+    height: 100%;
+    border: px;
+    background-color: rgb(0, 71, 178);
+    border-color: black;
+    float: left;
+    color: aliceblue;
+    padding-top: 2px;
+    text-align: center;
+    margin-top: 0%;
+
+}
+
+input{
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: #ede9e9;
+}
+
+.box {
+    width: 10px;
+
+}
+h3{
+    padding-top: 10px;
+}
+.bottom{
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+}
+ .bottom h1{
+    color: #0b0b0b;
+    padding-top: 30px;
+    /* padding-left:10px; */
+    width: 100px;
+    height: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.b1{
+    width: 200px;
+    height: 1000px;
+    background-color: #fff;
+    margin-left: 200px;
+    float: left;
+}
+.b2{
+    width: 200px;
+    height: 500px;
+    background-color: #fff;
+    margin-left: 200px;
+    float: left;
+    margin-top: 50px;
+}
+.b3{
+    width: 200px;
+    height: 500px;
+    background-color: #fff;
+    margin-left: 200px;
+    float: left;
+}
+.b2 img{
+    height: 250px;
+}
